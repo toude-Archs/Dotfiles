@@ -1,0 +1,11 @@
+# created by eselect-repo
+
+[kde]
+location = /var/db/repos/kde
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/kde.git
+
+[steam-overlay]
+location = /var/db/repos/steam-overlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/steam-overlay.git
